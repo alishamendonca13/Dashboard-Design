@@ -1,1 +1,1 @@
-# Dashboard-Design
+# Dashboard-DesignThis project showcases a Sales Financial Dashboard built in Power BI using a Kaggle dataset. The dashboard provides key insights into sales performance, profit margins, discount impact, and product-wise and country-wise breakdowns. It features interactive elements like slicers, dynamic KPI cards, and time-series analysis to help stakeholders make data-driven decisions efficiently through a clean and visually consistent interface.
